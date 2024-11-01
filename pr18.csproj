@@ -121,5 +121,11 @@
   <ItemGroup>
     <Resource Include="background1.PNG" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="kalendar_3ii9gdcp506p_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="kalendar_3ii9gdcp506p.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
